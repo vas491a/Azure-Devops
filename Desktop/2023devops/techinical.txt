@@ -1,0 +1,5 @@
+softwwere
+hardwere
+network
+vlsi
+git
